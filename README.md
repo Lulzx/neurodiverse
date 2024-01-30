@@ -5,7 +5,7 @@
 
 This repository contains resources and documentation related to the research and development of AI-powered memory prosthetics. 
 
-These innovative technologies aim to enhance human memory and cognitive functions through artificial intelligence algorithms and neural interfaces.
+We aim to build innovative technologies to enhance human memory and cognitive functions through artificial intelligence algorithms and neural interfaces.
 
 
 ### Goals
@@ -20,4 +20,4 @@ These innovative technologies aim to enhance human memory and cognitive function
 
 
 
-By working together, we can advance the field of AI-powered memory prosthetics and unlock new possibilities for human cognition and memory enhancement.
+By working together, we can advance the field of memory prosthetics and unlock new possibilities for human cognition and memory enhancement.
