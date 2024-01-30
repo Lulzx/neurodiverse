@@ -10,7 +10,7 @@ These innovative technologies aim to enhance human memory and cognitive function
 
 ### Goals
 
-### The primary objectives of this research include:
+#### The primary objectives of this research include:
 
 1. Developing AI algorithms that can accurately model and predict human memory patterns.
 
